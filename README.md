@@ -2,8 +2,12 @@
 
 I'm Juan Colombo,I'm software developer, looking to contribute to open-source projects and improve my developer skills 🚀
 
-[Twitter](https://twitter.com/Jcolombo15)
-
-[Linkedin](https://www.linkedin.com/in/jcolombo/)
+<a href="https://twitter.com/Jcolombo15">
+  <img align="left" alt="Juan Colombo | Twitter" width="21px" src="assets\twitter.svg" />
+</a>     
+<a href="https://www.linkedin.com/in/jcolombo/">
+  <img align="left" alt="ColomboJuan's Linkedin" width="21px" src="assets\linkedin.png" />
+</a>
+<div>
 
 
