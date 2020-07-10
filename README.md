@@ -8,6 +8,11 @@ I'm Juan Colombo,I'm software developer, looking to contribute to open-source pr
 <a href="https://www.linkedin.com/in/jcolombo/">
   <img align="left" alt="ColomboJuan's Linkedin" width="21px" src="https://github.com/ColomboJuan/ColomboJuan/blob/master/assets/linkedin.png" />
 </a>
-<div>
+
+<br>
+
+
+![ColomboJuan's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=ColomboJuan&show_icons=true&hide_border=true)
+
 
 
