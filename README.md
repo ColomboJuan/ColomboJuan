@@ -12,7 +12,6 @@
     </a>
 </p>
 
----
 I'm Juan Colombo,I'm software developer from Argentina 🚀
 
 - 🌱 I'm currently learning React & Node.js
