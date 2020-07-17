@@ -12,7 +12,9 @@
     </a>
 </p>
 
+<p align="center">
 I'm Juan Colombo,I'm software developer from Argentina 🚀
+</p>
 
 - 🌱 I'm currently learning React & Node.js
 - 👯 I'm looking to collaborate on Open Source Projects
